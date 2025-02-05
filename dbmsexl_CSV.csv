@@ -1,0 +1,446 @@
+source,Airport Country Code,Country Name,Airport Continent,Continents,Departure Date,destination
+Coldfoot Airport,US,United States,NAM,North America,6/28/2022,CXF
+Kugluktuk Airport,CA,Canada,NAM,North America,12/26/2022,YCO
+Grenoble-Isère Airport,FR,France,EU,Europe,1/18/2022,GNB
+Ottawa / Gatineau Airport,CA,Canada,NAM,North America,9/16/2022,YND
+Gillespie Field,US,United States,NAM,North America,2/25/2022,SEE
+Coronel Horácio de Mattos Airport,BR,Brazil,SAM,South America,06-10-2022,LEC
+Duxford Aerodrome,GB,United Kingdom,EU,Europe,10/30/2022,QFO
+Maestro Wilson Fonseca Airport,BR,Brazil,SAM,South America,04-07-2022,STM
+Venice Marco Polo Airport,IT,Italy,EU,Europe,8/20/2022,VCE
+Vermilion Airport,CA,Canada,NAM,North America,04-06-2022,YVG
+Nuevo Casas Grandes Airport,MX,Mexico,NAM,North America,5/27/2022,NCG
+Ruben Cantu Airport,PA,Panama,NAM,North America,02-06-2022,SYP
+Loralai Airport,PK,Pakistan,AS,Asia,3/19/2022,LRG
+Cudal Airport,AU,Australia,OC,Oceania,3/24/2022,CUG
+Farmington Regional Airport,US,United States,NAM,North America,03-07-2022,FAM
+Oudtshoorn Airport,ZA,South Africa,AF,Africa,7/18/2022,OUH
+Zaraza Airport,VE,"Venezuela, Bolivarian Republic of",SAM,South America,9/23/2022,ZRZ
+Enshi Airport,CN,China,AS,Asia,3/29/2022,ENH
+Thompson Airport,CA,Canada,NAM,North America,11-03-2022,YTH
+Guilin Liangjiang International Airport,CN,China,AS,Asia,09-05-2022,KWL
+Crested Butte Airpark,US,United States,NAM,North America,2/19/2022,CSE
+St Augustin Airport,CA,Canada,NAM,North America,11-05-2022,YIF
+Port Bergé Airport,MG,Madagascar,AF,Africa,8/24/2022,WPB
+Hato Corozal Airport,CO,Colombia,SAM,South America,08-06-2022,HTZ
+Elkhart Municipal Airport,US,United States,NAM,North America,3/20/2022,EKI
+Timbedra Airport,MR,Mauritania,AF,Africa,2/19/2022,TMD
+Bagan Airport,MM,Myanmar,AS,Asia,10-03-2022,NYU
+Wiley Post Will Rogers Memorial Airport,US,United States,NAM,North America,12-05-2022,BRW
+Gamboma Airport,CG,Congo,AF,Africa,04-09-2022,GMM
+Kasaba Bay Airport,ZM,Zambia,AF,Africa,4/14/2022,ZKB
+Faleolo International Airport,WS,Samoa,OC,Oceania,7/22/2022,APW
+Gorge Harbour Seaplane Base,CA,Canada,NAM,North America,08-05-2022,YGE
+Nesson Airport,NC,New Caledonia,OC,Oceania,3/25/2022,HLU
+Malabo Airport,GQ,Equatorial Guinea,AF,Africa,9/23/2022,SSG
+Zahn's Airport,US,United States,NAM,North America,11/23/2022,AYZ
+Gora Airstrip,PG,Papua New Guinea,OC,Oceania,6/25/2022,GOC
+Campbell River Airport,CA,Canada,NAM,North America,7/22/2022,YBL
+Moki Airport,PG,Papua New Guinea,OC,Oceania,12/21/2022,MJJ
+Bairnsdale Airport,AU,Australia,OC,Oceania,01-11-2022,BSJ
+Colonel Hill Airport,BS,Bahamas,NAM,North America,12-11-2022,CRI
+Minlaton Airport,AU,Australia,OC,Oceania,12/15/2022,XML
+Cincinnati Northern Kentucky International Airport,US,United States,NAM,North America,6/16/2022,CVG
+Rar Gwamar Airport,ID,Indonesia,AS,Asia,07-08-2022,DOB
+Sawyer International Airport,US,United States,NAM,North America,5/17/2022,MQT
+Mirny Airport,RU,Russian Federation,AS,Asia,2/21/2022,MJZ
+Susanville Municipal Airport,US,United States,NAM,North America,3/21/2022,SVE
+Wichita Eisenhower National Airport,US,United States,NAM,North America,11-08-2022,ICT
+Kavieng Airport,PG,Papua New Guinea,OC,Oceania,6/22/2022,KVG
+Arapiraca Airport,BR,Brazil,SAM,South America,4/26/2022,APQ
+Port Lincoln Airport,AU,Australia,OC,Oceania,03-06-2022,PLO
+Roboré Airport,BO,"Bolivia, Plurinational State of",SAM,South America,5/13/2022,RBO
+Gaspé (Michel-Pouliot) Airport,CA,Canada,NAM,North America,5/15/2022,YGP
+Kenmore Air Harbor Seaplane Base,US,United States,NAM,North America,12-08-2022,LKE
+Diamantina Lakes Airport,AU,Australia,OC,Oceania,11/23/2022,DYM
+Quzhou Airport,CN,China,AS,Asia,9/22/2022,JUZ
+McGhee Tyson Airport,US,United States,NAM,North America,02-07-2022,TYS
+Mulika Lodge Airport,KE,Kenya,AF,Africa,7/27/2022,JJM
+Badu Island Airport,AU,Australia,OC,Oceania,11/24/2022,BDD
+Putao Airport,MM,Myanmar,AS,Asia,12/18/2022,PBU
+Ouahigouya Airport,BF,Burkina Faso,AF,Africa,4/29/2022,OUG
+Tahsis Seaplane Base,CA,Canada,NAM,North America,1/31/2022,ZTS
+Albert Lea Municipal Airport,US,United States,NAM,North America,07-05-2022,AEL
+White Mountain Airport,US,United States,NAM,North America,7/20/2022,WMO
+Southwest Florida International Airport,US,United States,NAM,North America,3/24/2022,RSW
+South Galway Airport,AU,Australia,OC,Oceania,11-10-2022,ZGL
+Doini Airport,PG,Papua New Guinea,OC,Oceania,07-06-2022,DOI
+Nanjing Lukou Airport,CN,China,AS,Asia,10-11-2022,NKG
+Mundo Maya International Airport,GT,Guatemala,NAM,North America,5/25/2022,FRS
+Matsu Nangan Airport,TW,"Taiwan, Province of China",AS,Asia,10/27/2022,LZN
+Biju Patnaik Airport,IN,India,AS,Asia,7/22/2022,BBI
+Tamchakett Airport,MR,Mauritania,AF,Africa,10/25/2022,THT
+Yuruf Airport,ID,Indonesia,AS,Asia,05-02-2022,RUF
+Monte Carmelo Airport,BR,Brazil,SAM,South America,9/14/2022,0
+Vadsø Airport,NO,Norway,EU,Europe,11/25/2022,VDS
+Fakfak Airport,ID,Indonesia,AS,Asia,04-09-2022,FKQ
+Islita Airport,CR,Costa Rica,NAM,North America,7/15/2022,PBP
+João Paulo II Airport,PT,Portugal,EU,Europe,8/26/2022,PDL
+Batticaloa Airport,LK,Sri Lanka,AS,Asia,02-12-2022,BTC
+Omar N Bradley Airport,US,United States,NAM,North America,5/19/2022,MBY
+Lihue Airport,US,United States,NAM,North America,1/31/2022,LIH
+Spirit of St Louis Airport,US,United States,NAM,North America,7/17/2022,SUS
+Tahsis Seaplane Base,CA,Canada,NAM,North America,11/16/2022,ZTS
+Mururoa Atoll Airport,PF,French Polynesia,OC,Oceania,02-06-2022,UOA
+Denver International Airport,US,United States,NAM,North America,05-07-2022,DEN
+Arly Airport,BF,Burkina Faso,AF,Africa,10/29/2022,ARL
+Springfield Branson National Airport,US,United States,NAM,North America,08-09-2022,SGF
+Paradise Island Airport,MZ,Mozambique,AF,Africa,10/29/2022,NTC
+Merritt Airport,CA,Canada,NAM,North America,11-03-2022,YMB
+Naval Outlying Field Imperial Beach (Ream Field),US,United States,NAM,North America,9/26/2022,NRS
+In Guezzam Airport,DZ,Algeria,AF,Africa,1/20/2022,INF
+Aldan Airport,RU,Russian Federation,AS,Asia,08-07-2022,ADH
+Bhojpur Airport,NP,Nepal,AS,Asia,12-10-2022,BHP
+Gorna Oryahovitsa Airport,BG,Bulgaria,EU,Europe,9/25/2022,GOZ
+Hattiesburg Laurel Regional Airport,US,United States,NAM,North America,7/27/2022,PIB
+Nalchik Airport,RU,Russian Federation,EU,Europe,11/26/2022,NAL
+Venice Municipal Airport,US,United States,NAM,North America,04-01-2022,VNC
+Tanda Tula Airport,ZA,South Africa,AF,Africa,6/17/2022,TDT
+Lar Airport,IR,"Iran, Islamic Republic of",AS,Asia,7/31/2022,LRR
+Stewart International Airport,US,United States,NAM,North America,07-06-2022,SWF
+Genoa Cristoforo Colombo Airport,IT,Italy,EU,Europe,12/18/2022,GOA
+Buka Airport,PG,Papua New Guinea,OC,Oceania,10/29/2022,BUA
+Copán Ruinas Airport,HN,Honduras,NAM,North America,7/14/2022,RUY
+Waycross Ware County Airport,US,United States,NAM,North America,9/17/2022,AYS
+En Nahud Airport,SD,Sudan,AF,Africa,5/18/2022,NUD
+Memorial Field,US,United States,NAM,North America,11/28/2022,HOT
+Tarama Airport,JP,Japan,AS,Asia,4/13/2022,TRA
+Akita Airport,JP,Japan,AS,Asia,06-03-2022,AXT
+Hatzfeldhaven Airport,PG,Papua New Guinea,OC,Oceania,5/25/2022,HAZ
+Tapini Airport,PG,Papua New Guinea,OC,Oceania,7/30/2022,TPI
+Casa De Campo International Airport,DO,Dominican Republic,NAM,North America,04-04-2022,LRM
+Owatonna Degner Regional Airport,US,United States,NAM,North America,01-04-2022,OWA
+Handan Airport,CN,China,AS,Asia,03-08-2022,HDG
+Mal Airport,PG,Papua New Guinea,OC,Oceania,10/26/2022,MMV
+Fáskrúðsfjörður Airport,IS,Iceland,EU,Europe,1/13/2022,FAS
+Omora Airport,PG,Papua New Guinea,OC,Oceania,08-01-2022,OSE
+Fort Mcpherson Airport,CA,Canada,NAM,North America,12-04-2022,ZFM
+Newcastle Airport,GB,United Kingdom,EU,Europe,3/17/2022,NCL
+Guanghan Airport,CN,China,AS,Asia,2/24/2022,GHN
+Pureni Airport,PG,Papua New Guinea,OC,Oceania,8/15/2022,PUI
+Long Island Airport,PG,Papua New Guinea,OC,Oceania,10/23/2022,LSJ
+Xinzhou Wutaishan Airport,CN,China,AS,Asia,4/27/2022,WUT
+Bandar Lengeh Airport,IR,"Iran, Islamic Republic of",AS,Asia,12-05-2022,BDH
+Canarana Airport,BR,Brazil,SAM,South America,9/26/2022,CQA
+Cà Mau Airport,VN,Viet Nam,AS,Asia,1/13/2022,CAH
+Tezu Airport,IN,India,AS,Asia,5/23/2022,TEI
+Krasnoselkup Airport,RU,Russian Federation,EU,Europe,8/19/2022,KKQ
+Monte Dourado Airport,BR,Brazil,SAM,South America,12/28/2022,MEU
+Awaba Airport,PG,Papua New Guinea,OC,Oceania,10/28/2022,AWB
+Al Thaurah Airport,SY,Syrian Arab Republic,AS,Asia,11/15/2022,SOR
+Sibiu International Airport,RO,Romania,EU,Europe,12/24/2022,SBZ
+Panguitch Municipal Airport,US,United States,NAM,North America,10/19/2022,PNU
+Cue Airport,AU,Australia,OC,Oceania,10/16/2022,CUY
+Ilam Airport,IR,"Iran, Islamic Republic of",AS,Asia,10/21/2022,IIL
+Soledade Airport,BR,Brazil,SAM,South America,10-03-2022,0
+Helenvale Airport,AU,Australia,OC,Oceania,05-02-2022,HLV
+Dalhart Municipal Airport,US,United States,NAM,North America,04-08-2022,DHT
+Yam Island Airport,AU,Australia,OC,Oceania,12/27/2022,XMY
+St George Airport,AU,Australia,OC,Oceania,07-12-2022,SGO
+Dallas Love Field,US,United States,NAM,North America,5/31/2022,DAL
+Gerrard Smith International Airport,KY,Cayman Islands,NAM,North America,06-11-2022,CYB
+RAF Wildenrath,DE,Germany,EU,Europe,2/17/2022,WID
+General Lucio Blanco International Airport,MX,Mexico,NAM,North America,10/19/2022,REX
+Wantoat Airport,PG,Papua New Guinea,OC,Oceania,11/30/2022,WTT
+Sofia Airport,BG,Bulgaria,EU,Europe,1/20/2022,SOF
+Antônio Guerreiro Airport,BR,Brazil,SAM,South America,9/16/2022,GMS
+Central Maine Airport of Norridgewock,US,United States,NAM,North America,4/13/2022,OWK
+Lawson Army Air Field (Fort Benning),US,United States,NAM,North America,7/21/2022,LSF
+Ust-Maya Airport,RU,Russian Federation,EU,Europe,11-10-2022,UMS
+Dalby Airport,AU,Australia,OC,Oceania,5/15/2022,DBY
+Lučenec Airport,SK,Slovakia,EU,Europe,7/27/2022,LUE
+Meghauli Airport,NP,Nepal,AS,Asia,2/26/2022,MEY
+Nikolai Airport,US,United States,NAM,North America,08-11-2022,NIB
+Bemidji Regional Airport,US,United States,NAM,North America,6/19/2022,BJI
+Muhammad Salahuddin Airport,ID,Indonesia,AS,Asia,8/28/2022,BMU
+"Magdeburg ""City"" Airport",DE,Germany,EU,Europe,12-06-2022,ZMG
+Tsletsi Airport,DZ,Algeria,AF,Africa,11-01-2022,QDJ
+Groote Eylandt Airport,AU,Australia,OC,Oceania,3/30/2022,GTE
+Lemhi County Airport,US,United States,NAM,North America,1/23/2022,SMN
+Green River Airport,PG,Papua New Guinea,OC,Oceania,07-11-2022,GVI
+Kenai Municipal Airport,US,United States,NAM,North America,07-03-2022,ENA
+Margaret River (Station) Airport,AU,Australia,OC,Oceania,12/15/2022,MGV
+Abraham Lincoln Capital Airport,US,United States,NAM,North America,4/25/2022,SPI
+Shahid Sadooghi Airport,IR,"Iran, Islamic Republic of",AS,Asia,8/16/2022,AZD
+Arathusa Safari Lodge Airport,ZA,South Africa,AF,Africa,10-07-2022,ASS
+Bewani Airport,PG,Papua New Guinea,OC,Oceania,11/29/2022,BWP
+Jwaneng Airport,BW,Botswana,AF,Africa,3/28/2022,JWA
+Turaif Domestic Airport,SA,Saudi Arabia,AS,Asia,02-08-2022,TUI
+Nueva Loja Airport,EC,Ecuador,SAM,South America,12/17/2022,LGQ
+Southern Seaplane Airport,US,United States,NAM,North America,3/26/2022,BCS
+Wanuma Airport,PG,Papua New Guinea,OC,Oceania,09-01-2022,WNU
+Amchitka Army Airfield,US,United States,NAM,North America,06-07-2022,AHT
+Araraquara Airport,BR,Brazil,SAM,South America,03-08-2022,AQA
+Phoenix-Mesa-Gateway Airport,US,United States,NAM,North America,06-10-2022,AZA
+Orocue Airport,CO,Colombia,SAM,South America,08-12-2022,ORC
+Gorakhpur Airport,IN,India,AS,Asia,1/30/2022,GOP
+Moody Air Force Base,US,United States,NAM,North America,8/17/2022,VAD
+Sangir Airport,ID,Indonesia,AS,Asia,10-01-2022,SAE
+Jubail Airport,SA,Saudi Arabia,AS,Asia,2/13/2022,QJB
+Trona Airport,US,United States,NAM,North America,5/28/2022,TRH
+Kribi Airport,CM,Cameroon,AF,Africa,1/13/2022,KBI
+Black Tickle Airport,CA,Canada,NAM,North America,02-12-2022,YBI
+Pakhokku Airport,MM,Myanmar,AS,Asia,05-12-2022,PKK
+Khovd Airport,MN,Mongolia,AS,Asia,10/13/2022,HVD
+Rostock-Laage Airport,DE,Germany,EU,Europe,8/23/2022,RLG
+Mecheria Airport,DZ,Algeria,AF,Africa,05-12-2022,MZW
+Shuswap Regional Airport,CA,Canada,NAM,North America,10-05-2022,YSN
+Grumman Bethpage Airport,US,United States,NAM,North America,8/21/2022,BPA
+Canefield Airport,DM,Dominica,NAM,North America,5/19/2022,DCF
+Sultan Khairun Babullah Airport,ID,Indonesia,AS,Asia,05-11-2022,TTE
+El Dorado International Airport,CO,Colombia,SAM,South America,03-12-2022,BOG
+Fuerte Olimpo Airport,PY,Paraguay,SAM,South America,7/21/2022,OLK
+Geraldton Greenstone Regional Airport,CA,Canada,NAM,North America,7/28/2022,YGQ
+Bar Yehuda Airfield,IL,Israel,AS,Asia,11/14/2022,MTZ
+Brandon Municipal Airport,CA,Canada,NAM,North America,4/14/2022,YBR
+Rijeka Airport,HR,Croatia,EU,Europe,4/27/2022,RJK
+Lebanon Municipal Airport,US,United States,NAM,North America,5/23/2022,LEB
+Valcheta Airport,AR,Argentina,SAM,South America,10/23/2022,VCF
+Futuna Airport,VU,Vanuatu,OC,Oceania,09-04-2022,FTA
+Nyngan Airport,AU,Australia,OC,Oceania,1/14/2022,NYN
+El Petén Airport,GT,Guatemala,NAM,North America,05-05-2022,TKM
+Talakan Airport,RU,Russian Federation,EU,Europe,06-12-2022,TLK
+Amos/Magny Airport,CA,Canada,NAM,North America,4/18/2022,YEY
+Hutchinson County Airport,US,United States,NAM,North America,07-03-2022,BGD
+Kaitaia Airport,NZ,New Zealand,OC,Oceania,4/24/2022,KAT
+Okmulgee Regional Airport,US,United States,NAM,North America,7/15/2022,OKM
+Kalbarri Airport,AU,Australia,OC,Oceania,5/29/2022,KAX
+Mullewa Airport,AU,Australia,OC,Oceania,09-10-2022,MXU
+Elkhart Municipal Airport,US,United States,NAM,North America,11/29/2022,EKI
+Osijek Airport,HR,Croatia,EU,Europe,6/24/2022,OSI
+Pune Airport,IN,India,AS,Asia,2/19/2022,PNQ
+Dien Bien Phu Airport,VN,Viet Nam,AS,Asia,8/19/2022,DIN
+Leinster Airport,AU,Australia,OC,Oceania,8/21/2022,LER
+Valle Airport,US,United States,NAM,North America,5/19/2022,VLE
+Etadunna Airport,AU,Australia,OC,Oceania,4/26/2022,ETD
+Kasenga Airport,CD,"Congo, The Democratic Republic of the",AF,Africa,10/16/2022,KEC
+Wabush Airport,CA,Canada,NAM,North America,09-06-2022,YWK
+Schefferville Airport,CA,Canada,NAM,North America,04-05-2022,YKL
+Kalaupapa Airport,US,United States,NAM,North America,4/27/2022,LUP
+Victoria Harbour Seaplane Base,CA,Canada,NAM,North America,01-12-2022,YWH
+Columbus Lowndes County Airport,US,United States,NAM,North America,1/13/2022,UBS
+Centralia Municipal Airport,US,United States,NAM,North America,3/24/2022,ENL
+Mariupol International Airport,UA,Ukraine,EU,Europe,08-09-2022,MPW
+Jiayuguan Airport,CN,China,AS,Asia,5/29/2022,JGN
+Grabtsevo Airport,RU,Russian Federation,EU,Europe,10/26/2022,KLF
+Gällivare Airport,SE,Sweden,EU,Europe,5/21/2022,GEV
+João Durval Carneiro Airport,BR,Brazil,SAM,South America,1/25/2022,FEC
+Talasea Airport,PG,Papua New Guinea,OC,Oceania,07-07-2022,TLW
+Augusto C. Sandino (Managua) International Airport,NI,Nicaragua,NAM,North America,02-02-2022,MGA
+University of Oklahoma Westheimer Airport,US,United States,NAM,North America,1/26/2022,OUN
+Sepulot Airport,MY,Malaysia,AS,Asia,11-01-2022,SPE
+Weeze Airport,DE,Germany,EU,Europe,2/13/2022,NRN
+Moro Airport,PG,Papua New Guinea,OC,Oceania,05-11-2022,MXH
+Abingdon Downs Airport,AU,Australia,OC,Oceania,05-03-2022,ABG
+Swift Current Airport,CA,Canada,NAM,North America,9/24/2022,YYN
+Friedman Memorial Airport,US,United States,NAM,North America,2/26/2022,SUN
+Senanga Airport,ZM,Zambia,AF,Africa,2/13/2022,SXG
+RAF Lyneham,GB,United Kingdom,EU,Europe,8/27/2022,LYE
+Hazyview Airport,ZA,South Africa,AF,Africa,7/18/2022,HZV
+Waterloo Regional Airport,US,United States,NAM,North America,10/13/2022,ALO
+Wilwal International Airport,ET,Ethiopia,AF,Africa,6/24/2022,JIJ
+Jasper Airport,CA,Canada,NAM,North America,1/27/2022,YJA
+Biała Podlaska Airfield,PL,Poland,EU,Europe,11-03-2022,BXP
+St Paul Island Airport,US,United States,NAM,North America,07-09-2022,SNP
+Salt Lake City International Airport,US,United States,NAM,North America,4/24/2022,SLC
+Wana Airport,PK,Pakistan,AS,Asia,6/25/2022,WAF
+Nevatim Air Base,IL,Israel,AS,Asia,6/20/2022,VTM
+Abel Santamaria Airport,CU,Cuba,NAM,North America,10-08-2022,SNU
+Barcelona International Airport,ES,Spain,EU,Europe,10-12-2022,BCN
+Battambang Airport,KH,Cambodia,AS,Asia,12/16/2022,BBM
+Aseki Airport,PG,Papua New Guinea,OC,Oceania,2/18/2022,AEK
+Vila Real Airport,PT,Portugal,EU,Europe,5/30/2022,VRL
+Jacquinot Bay Airport,PG,Papua New Guinea,OC,Oceania,6/26/2022,JAQ
+Tibooburra Airport,AU,Australia,OC,Oceania,2/20/2022,TYB
+Mountain Village Airport,US,United States,NAM,North America,08-09-2022,MOU
+Thumrait Air Base,OM,Oman,AS,Asia,04-09-2022,TTH
+Jorge Chávez International Airport,PE,Peru,SAM,South America,4/14/2022,LIM
+Carutapera Airport,BR,Brazil,SAM,South America,10/16/2022,CTP
+Robertson Airport,ZA,South Africa,AF,Africa,10/22/2022,ROD
+Potchefstroom Airport,ZA,South Africa,AF,Africa,10/14/2022,PCF
+Nantes Atlantique Airport,FR,France,EU,Europe,9/26/2022,NTE
+Southwest Minnesota Regional Airport - Marshall/Ryan Field,US,United States,NAM,North America,02-03-2022,MML
+RAF Wyton,GB,United Kingdom,EU,Europe,7/28/2022,QUY
+Mendi Airport,ET,Ethiopia,AF,Africa,6/15/2022,NDM
+Wipim Airport,PG,Papua New Guinea,OC,Oceania,12-09-2022,WPM
+Wanxian Airport,CN,China,AS,Asia,07-08-2022,WXN
+Lauro Carneiro de Loyola Airport,BR,Brazil,SAM,South America,11/24/2022,JOI
+Broken Hill Airport,AU,Australia,OC,Oceania,01-02-2022,BHQ
+Kota Airport,IN,India,AS,Asia,10/22/2022,KTU
+Igiugig Airport,US,United States,NAM,North America,10/31/2022,IGG
+Sangir Airport,ID,Indonesia,AS,Asia,06-09-2022,SAE
+Westerly State Airport,US,United States,NAM,North America,04-01-2022,WST
+Lethem Airport,GY,Guyana,SAM,South America,7/27/2022,LTM
+Rugao Air Base,CN,China,AS,Asia,04-09-2022,RUG
+São Miguel do Oeste Airport,BR,Brazil,SAM,South America,06-02-2022,SQX
+Bandeirantes Airport,BR,Brazil,SAM,South America,10/23/2022,0
+Phu Cat Airport,VN,Viet Nam,AS,Asia,2/19/2022,UIH
+Oriximiná Airport,BR,Brazil,SAM,South America,5/25/2022,ORX
+Governor's Harbour Airport,BS,Bahamas,NAM,North America,6/23/2022,GHB
+Bella Union Airport,UY,Uruguay,SAM,South America,4/24/2022,BUV
+Asaloyeh Airport,IR,"Iran, Islamic Republic of",AS,Asia,6/26/2022,YEH
+Mecheria Airport,DZ,Algeria,AF,Africa,11/14/2022,MZW
+Hermannsburg Airport,AU,Australia,OC,Oceania,8/26/2022,HMG
+Dachuan Airport,CN,China,AS,Asia,08-05-2022,DAX
+Dongji Aiport,CN,China,AS,Asia,5/29/2022,FYJ
+Punta Colorada Airport,MX,Mexico,NAM,North America,10/14/2022,PCO
+Deer Harbor SPB,US,United States,NAM,North America,12-09-2022,DHB
+Rawalakot Airport,PK,Pakistan,AS,Asia,12/19/2022,RAZ
+Sioux Lookout Airport,CA,Canada,NAM,North America,9/29/2022,YXL
+Quinhagak Airport,US,United States,NAM,North America,11/27/2022,KWN
+Tengchong Tuofeng Airport,CN,China,AS,Asia,8/30/2022,TCZ
+Rabat-Salé Airport,MA,Morocco,AF,Africa,2/20/2022,RBA
+Lučenec Airport,SK,Slovakia,EU,Europe,06-11-2022,LUE
+Mendeleyevo Airport,RU,Russian Federation,AS,Asia,04-06-2022,DEE
+Mahshahr Airport,IR,"Iran, Islamic Republic of",AS,Asia,12-03-2022,MRX
+Alexander Bay Airport,ZA,South Africa,AF,Africa,07-09-2022,ALJ
+Baie-Johan-Beetz Water Aerodrome,CA,Canada,NAM,North America,10/22/2022,YBJ
+Lowe AHP (Fort Rucker) Heliport,US,United States,NAM,North America,8/30/2022,LOR
+Nambaiyufa Airport,PG,Papua New Guinea,OC,Oceania,4/18/2022,NBA
+Warren County Memorial Airport,US,United States,NAM,North America,1/25/2022,RNC
+Monywar Airport,MM,Myanmar,AS,Asia,1/16/2022,NYW
+Kelafo East Airport,ET,Ethiopia,AF,Africa,2/26/2022,LFO
+Hartness State (Springfield) Airport,US,United States,NAM,North America,10-05-2022,VSF
+Vladivostok International Airport,RU,Russian Federation,AS,Asia,11/15/2022,VVO
+Sumter Airport,US,United States,NAM,North America,11/20/2022,SUM
+Kuressaare Airport,EE,Estonia,EU,Europe,10/23/2022,URE
+Ahmed Al Jaber Air Base,KW,Kuwait,AS,Asia,11-11-2022,XIJ
+Larisa Airport,GR,Greece,EU,Europe,7/14/2022,LRA
+Tho Xuan Airport,VN,Viet Nam,AS,Asia,11-08-2022,THD
+Kasonombe Airport,PG,Papua New Guinea,OC,Oceania,02-03-2022,KSB
+Memphis International Airport,US,United States,NAM,North America,12/13/2022,MEM
+Banfora Airport,BF,Burkina Faso,AF,Africa,10-08-2022,BNR
+Wapekeka Airport,CA,Canada,NAM,North America,10/20/2022,YAX
+Blaise Diagne International Airport,SN,Senegal,AF,Africa,11-05-2022,DSS
+Rebun Airport,JP,Japan,AS,Asia,12/22/2022,RBJ
+Theda Station Airport,AU,Australia,OC,Oceania,2/21/2022,TDN
+Akieni Airport,GA,Gabon,AF,Africa,4/21/2022,AKE
+Port Moller Airport,US,United States,NAM,North America,12/24/2022,PML
+Gardo Airport,SO,Somalia,AF,Africa,3/14/2022,GSR
+Crossville Memorial Whitson Field,US,United States,NAM,North America,03-07-2022,CSV
+Yoshkar-Ola Airport,RU,Russian Federation,EU,Europe,3/30/2022,JOK
+Ocean Reef Club Airport,US,United States,NAM,North America,6/22/2022,OCA
+Dourados Airport,BR,Brazil,SAM,South America,2/24/2022,DOU
+South Molle Island Helipad,AU,Australia,OC,Oceania,12/21/2022,SOI
+Skövde Airport,SE,Sweden,EU,Europe,9/20/2022,KVB
+Odienne Airport,CI,Côte d'Ivoire,AF,Africa,12/28/2022,KEO
+Bronson Creek Airport,CA,Canada,NAM,North America,4/24/2022,YBM
+Hachijojima Airport,JP,Japan,AS,Asia,2/20/2022,HAC
+Mount Pleasant Airport,FK,Falkland Islands (Malvinas),SAM,South America,11-11-2022,MPN
+Bazhong Enyang Airport,CN,China,AS,Asia,1/20/2022,BZX
+Alejandro Velasco Astete International Airport,PE,Peru,SAM,South America,9/16/2022,CUZ
+Avu Avu Airport,SB,Solomon Islands,OC,Oceania,8/23/2022,AVU
+Maroantsetra Airport,MG,Madagascar,AF,Africa,02-06-2022,WMN
+Pangsuma Airport,ID,Indonesia,AS,Asia,1/17/2022,PSU
+Baudette International Airport,US,United States,NAM,North America,03-05-2022,BDE
+Nelson Ribeiro Guimarães Airport,BR,Brazil,SAM,South America,3/17/2022,CLV
+Coventry Airport,GB,United Kingdom,EU,Europe,6/21/2022,CVT
+Ioannina Airport,GR,Greece,EU,Europe,12/30/2022,IOA
+Boundji Airport,CG,Congo,AF,Africa,4/16/2022,BOE
+Apple Valley Airport,US,United States,NAM,North America,4/13/2022,APV
+Amook Bay Seaplane Base,US,United States,NAM,North America,4/30/2022,AOS
+Thornhill Air Base,ZW,Zimbabwe,AF,Africa,02-05-2022,GWE
+Fort St John Airport,CA,Canada,NAM,North America,01-11-2022,YXJ
+Nanded Airport,IN,India,AS,Asia,3/21/2022,NDC
+Rajkot Airport,IN,India,AS,Asia,1/20/2022,RAJ
+Playa Baracoa Airport,CU,Cuba,NAM,North America,5/31/2022,UPB
+Solomon Airport,AU,Australia,OC,Oceania,08-07-2022,SLJ
+Wasu Airport,PG,Papua New Guinea,OC,Oceania,8/14/2022,WSU
+Point Salines International Airport,GD,Grenada,NAM,North America,10/25/2022,GND
+Araçatuba Airport,BR,Brazil,SAM,South America,03-04-2022,ARU
+Viracopos International Airport,BR,Brazil,SAM,South America,10-05-2022,VCP
+Blosser Municipal Airport,US,United States,NAM,North America,8/15/2022,CNK
+Boolgeeda,AU,Australia,OC,Oceania,09-07-2022,OCM
+Mendi Airport,ET,Ethiopia,AF,Africa,6/17/2022,NDM
+Greenwood County Airport,US,United States,NAM,North America,11/26/2022,GRD
+Upala Airport,CR,Costa Rica,NAM,North America,12/23/2022,UPL
+Wollogorang Airport,AU,Australia,OC,Oceania,9/28/2022,WLL
+Lissadell Airport,AU,Australia,OC,Oceania,08-06-2022,LLL
+Lambarene Airport,GA,Gabon,AF,Africa,04-12-2022,LBQ
+Northeast Alabama Regional Airport,US,United States,NAM,North America,7/15/2022,GAD
+Tarko-Sale Airport,RU,Russian Federation,AS,Asia,7/16/2022,TQL
+Miramichi Airport,CA,Canada,NAM,North America,09-02-2022,YCH
+Sarzana-Luni Air Base,IT,Italy,EU,Europe,9/24/2022,QLP
+Moranbah Airport,AU,Australia,OC,Oceania,8/16/2022,MOV
+Eastern WV Regional Airport/Shepherd Field,US,United States,NAM,North America,12-03-2022,MRB
+Cururupu Airport,BR,Brazil,SAM,South America,03-05-2022,CPU
+Provideniya Bay Airport,RU,Russian Federation,EU,Europe,07-10-2022,PVS
+Nakashibetsu Airport,JP,Japan,AS,Asia,11/25/2022,SHB
+Siglufjörður Airport,IS,Iceland,EU,Europe,03-03-2022,SIJ
+Shanghai Hongqiao International Airport,CN,China,AS,Asia,10/17/2022,SHA
+Gustavo Artunduaga Paredes Airport,CO,Colombia,SAM,South America,8/13/2022,FLA
+Ruby Airport,US,United States,NAM,North America,03-09-2022,RBY
+Dongshan Airport,CN,China,AS,Asia,2/27/2022,HLD
+Goulburn Airport,AU,Australia,OC,Oceania,1/28/2022,GUL
+Shark Bay Airport,AU,Australia,OC,Oceania,9/17/2022,MJK
+Rimouski Airport,CA,Canada,NAM,North America,11-10-2022,YXK
+Hongyuan Airport,CN,China,AS,Asia,2/21/2022,AHJ
+Capitan Nicolas Rojas Airport,BO,"Bolivia, Plurinational State of",SAM,South America,3/30/2022,POI
+Viña del mar Airport,CL,Chile,SAM,South America,08-03-2022,KNA
+Aksu Airport,CN,China,AS,Asia,10-03-2022,AKU
+Cardiff International Airport,GB,United Kingdom,EU,Europe,10/30/2022,CWL
+Valdez Pioneer Field,US,United States,NAM,North America,03-01-2022,VDZ
+Ryan's Creek Aerodrome,NZ,New Zealand,OC,Oceania,9/18/2022,SZS
+Bromont (Roland Desourdy) Airport,CA,Canada,NAM,North America,09-10-2022,ZBM
+North Island Naval Air Station-Halsey Field,US,United States,NAM,North America,10/24/2022,NZY
+Dimapur Airport,IN,India,AS,Asia,10/29/2022,DMU
+Mariana Grajales Airport,CU,Cuba,NAM,North America,2/24/2022,GAO
+Idaho Falls Regional Airport,US,United States,NAM,North America,7/27/2022,IDA
+Vista Field,US,United States,NAM,North America,4/14/2022,VSK
+Tenente Lund Pressoto Airport,BR,Brazil,SAM,South America,4/27/2022,FRC
+Federico Garcia Lorca Airport,ES,Spain,EU,Europe,6/18/2022,GRX
+Capitan FAP Carlos Martinez De Pinillos International Airport,PE,Peru,SAM,South America,08-10-2022,TRU
+Deer Lake Airport,CA,Canada,NAM,North America,12-09-2022,YDF
+Cruz Bay Seaplane Base,VI,"Virgin Islands, U.S.",NAM,North America,06-02-2022,SJF
+Williamsport Regional Airport,US,United States,NAM,North America,2/21/2022,IPT
+Wollongong Airport,AU,Australia,OC,Oceania,11/28/2022,WOL
+Paranaguá Airport,BR,Brazil,SAM,South America,7/22/2022,PNG
+Mukah Airport,MY,Malaysia,AS,Asia,02-04-2022,MKM
+Doris Lake,CA,Canada,NAM,North America,08-06-2022,JOJ
+Northeast Florida Regional Airport,US,United States,NAM,North America,10-09-2022,UST
+Lae Island Airport,MH,Marshall Islands,OC,Oceania,05-08-2022,LML
+Norman Manley International Airport,JM,Jamaica,NAM,North America,6/23/2022,KIN
+28 de Noviembre Airport,AR,Argentina,SAM,South America,8/19/2022,RYO
+Duncan Town Airport,BS,Bahamas,NAM,North America,5/26/2022,DCT
+Gerrard Smith International Airport,KY,Cayman Islands,NAM,North America,11-02-2022,CYB
+Moises R. Espinosa Airport,PH,Philippines,AS,Asia,03-12-2022,MBT
+Yeniseysk Airport,RU,Russian Federation,AS,Asia,12-12-2022,EIE
+Arad International Airport,RO,Romania,EU,Europe,08-11-2022,ARW
+Chandalar Lake Airport,US,United States,NAM,North America,4/27/2022,WCR
+Bisbee Douglas International Airport,US,United States,NAM,North America,2/27/2022,DUG
+Ontario International Airport,US,United States,NAM,North America,11-08-2022,ONT
+Ralph C Weiser Field,US,United States,NAM,North America,06-09-2022,AGO
+Yinchuan Hedong International Airport,CN,China,AS,Asia,3/23/2022,INC
+Central Illinois Regional Airport at Bloomington-Normal,US,United States,NAM,North America,09-03-2022,BMI
+Totness Airport,SR,Suriname,SAM,South America,08-01-2022,TOT
+Muskrat Dam Airport,CA,Canada,NAM,North America,6/13/2022,MSA
+Wausau Downtown Airport,US,United States,NAM,North America,06-04-2022,AUW
+Saumlaki/Olilit Airport,ID,Indonesia,AS,Asia,10/25/2022,SXK
+Twentynine Palms Airport,US,United States,NAM,North America,10/26/2022,TNP
+Kiwayu Airport,KE,Kenya,AF,Africa,09-01-2022,KWY
+Nuku Airport,PG,Papua New Guinea,OC,Oceania,07-08-2022,UKU
+Vila Bela da Santíssima Trindade Airport,BR,Brazil,SAM,South America,05-05-2022,MTG
+Palacios Municipal Airport,US,United States,NAM,North America,5/26/2022,PSX
+Kaili Airport,CN,China,AS,Asia,9/17/2022,KJH
+Playón Chico Airport,PA,Panama,NAM,North America,9/15/2022,PYC
+Helmuth Baungarten Airport,BR,Brazil,SAM,South America,05-12-2022,LOI
+Sesheke Airport,ZM,Zambia,AF,Africa,02-04-2022,SJQ
+Delissaville Airport,AU,Australia,OC,Oceania,10/30/2022,DLV
+Tocumwal Airport,AU,Australia,OC,Oceania,10/19/2022,TCW
+Rochester Airport,GB,United Kingdom,EU,Europe,08-01-2022,RCS
+Uru Harbour Airport,SB,Solomon Islands,OC,Oceania,01-04-2022,ATD
+Luis Munoz Marin International Airport,PR,Puerto Rico,NAM,North America,04-10-2022,SJU
+Sua Pan Airport,BW,Botswana,AF,Africa,9/16/2022,SXN
+Herrera Airport,DO,Dominican Republic,NAM,North America,7/20/2022,HEX
+Hihifo Airport,WF,Wallis and Futuna,OC,Oceania,1/22/2022,WLS
+Carurú Airport,CO,Colombia,SAM,South America,05-08-2022,CUO
+Great Bear Lake Airport,CA,Canada,NAM,North America,6/14/2022,DAS
+Jardines Del Rey Airport,CU,Cuba,NAM,North America,2/19/2022,CCC
+Enfidha - Hammamet International Airport,TN,Tunisia,AF,Africa,08-08-2022,NBE
+Menara Airport,MA,Morocco,AF,Africa,9/13/2022,RAK
+Nambucca Heads Airport,AU,Australia,OC,Oceania,4/13/2022,NBH
+Wiseman Airport,US,United States,NAM,North America,1/31/2022,WSM
+Prince Mangosuthu Buthelezi Airport,ZA,South Africa,AF,Africa,2/14/2022,ULD
+Wichita Eisenhower National Airport,US,United States,NAM,North America,10/18/2022,ICT
+La Tuque Airport,CA,Canada,NAM,North America,02-11-2022,YLQ
+Yibin Caiba Airport,CN,China,AS,Asia,12/28/2022,YBP
